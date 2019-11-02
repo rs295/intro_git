@@ -1,4 +1,4 @@
 Firt git text
 second
 third
-
+git remove
