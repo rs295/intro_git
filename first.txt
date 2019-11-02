@@ -2,3 +2,4 @@ Firt git text
 second
 third
 git remove
+git status
